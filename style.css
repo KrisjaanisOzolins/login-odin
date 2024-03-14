@@ -24,7 +24,7 @@ main {
 
 .sidebar {
     min-width: 35%;
-    background-image: url(../sidebar-pic.avif);
+    background-image: url("../login-odin/sidebar-pic.avif");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
